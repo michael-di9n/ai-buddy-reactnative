@@ -1,10 +1,9 @@
-# Calorie Buddy
-Mobile diet tracking device which can tell you how many colories a dish is from a simple snap
+# Ai Buddy 
+Generate an Ai from your imagination
 
 ## Finished Product
 <YoutubeVideo>
 
 ## Features
-- Calorie estimator using machine learning
-- Login user authentication
-- History tracker of past snaps
+- Take pictures of an object and transform it into an AI model
+- Train and raise the model
